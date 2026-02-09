@@ -54,7 +54,7 @@ To convert it to binary back:
 - Hence we will get the 1's complement.  
 - In order to get it into binary we have added 1 as carry in.
 
-Cin = 1 only when C2 = 0 & Cout = 0  
+Cin = 1 (for second adder) only when C2 = 0 & Cout = 0  
 Else Cin will remain 0 and the value given by the 1st adder will pass as it is.
 
 ---
